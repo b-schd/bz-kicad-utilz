@@ -34,7 +34,7 @@ STEP-BY-STEP:
 1. Your original schematics will be renamed as "<schematic_name>_old.sch" and placed in your kiCAD project folder. 
 
 AFTER USING:
-* If KiCAD was open at the time of editing, you will have to restart for any of the changes to take affect. 
+* If KiCAD was open at the time of editing, you will have to restart for any of the changes to take effect. 
 
 ### Compatibility and Versioning
 
