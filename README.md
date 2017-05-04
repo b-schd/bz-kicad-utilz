@@ -9,7 +9,7 @@ The following sections provide descriptions and deployment information for each 
 
 ## Utility #1: Edit All Schematic Entities - (aka EASE)
 
-Have you ever wanted to edit the allinformation fields for all your project components simultaneously? Look no further!!
+Have you ever wanted to edit all the information fields for all of your project components simultaneously? Look no further!!
 
 This script reads all KiCAD components and their associated fields from a project into a CSV document,
 then reads the updated CSV document back into schematic files. (This can also double up as an awesome BOM builder)
@@ -38,7 +38,7 @@ AFTER USING:
 
 ### Compatibility and Versioning
 
-Tested Operating Systems: Tested on Windows 10 and OSX 10.12.4 
+Tested Operating Systems: Tested on Windows 10 and OSX 10.12.4   
 Tested KiCAD Versions: Tested on Kicad v4.0.5 Release Build
 
 Written with Python 3.0
