@@ -1,11 +1,18 @@
-## KiCAD Annotation Adapter
-#This script allows users to load a schematic script into a .csv file.
+## Edit All Schematic Entities (EASE)-- KiCAD Annotation Adapter
+
+#Version: 1
+#Author: Brittany Scheid <brittany.h.scheid@gmail.com>
+
+
+#This script allows users to load a kiCAD schematic script into a .csv file.
 #All annotated part names will be extracted to the file along with their
 #corresponding fields. The fields can be easily edited, and then the .csv
 #can be reloaded to update the schematic file.
 
+#NOTE: The schematic components in the project MUST be annotaed first, and duplicate references should not exist
+
 #1) Call schematicToCSV
-#2) Edit
+#2) User Edits CSV File
 #3) Call updateSchematic
 
 import csv
